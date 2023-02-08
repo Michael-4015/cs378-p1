@@ -1,6 +1,5 @@
 body {
     padding-top: 4vh;
-    color: red;
 }
 
 header {
@@ -32,8 +31,9 @@ h3 {
 
 .menuImg {
   display: block;
-  width: 100%;
+  
   height: auto;
+  
   max-width: 20vw;
   object-fit: cover;
   margin-left: auto;
@@ -66,5 +66,6 @@ h3 {
 
 .col-img {
   min-width: 20vw;
+  min-height: 10vh;
 }
 

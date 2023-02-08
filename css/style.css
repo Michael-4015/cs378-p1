@@ -31,7 +31,7 @@ h3 {
 
 .menuImg {
   display: block;
-  height: 80px;
+  height: 100px;
   width: auto;
   object-fit: cover;
   margin-left: auto;
@@ -46,8 +46,7 @@ h3 {
 
 .col-itemButton{
   position: relative;
-  text-align: center;
-
+  text-align: left;
 }
 .col-price{
   position: relative;
@@ -55,10 +54,8 @@ h3 {
   width: 30vw;
 }
 .bottom {
-  margin-top: 10%;
-  position: relative;
+  position: absolute;
   bottom: 0;
- 
 }
 
 .row-margin{

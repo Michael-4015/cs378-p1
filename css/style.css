@@ -51,6 +51,7 @@ h3 {
 .col-price{
   position: relative;
   text-align: left;
+  width: 30vw;
 }
 .bottom {
   position: absolute;
@@ -59,5 +60,9 @@ h3 {
 
 .row-margin{
   margin-top: 5vh;
+}
+
+.col-img {
+  width: 30vw;
 }
 

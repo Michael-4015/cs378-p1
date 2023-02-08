@@ -46,16 +46,19 @@ h3 {
 
 .col-itemButton{
   position: relative;
-  text-align: left;
+  text-align: center;
+
 }
 .col-price{
   position: relative;
-  text-align: left;
+  text-align: center;
   width: 30vw;
 }
 .bottom {
-  position: absolute;
+  margin-top: 10%;
+  position: relative;
   bottom: 0;
+ 
 }
 
 .row-margin{

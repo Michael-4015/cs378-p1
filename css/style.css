@@ -1,5 +1,6 @@
 body {
     padding-top: 4vh;
+    color: red;
 }
 
 header {
@@ -64,6 +65,6 @@ h3 {
 }
 
 .col-img {
-  min-width: 25vw;
+  min-width: 20vw;
 }
 
